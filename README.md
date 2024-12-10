@@ -9,3 +9,9 @@ These pdf files contain simple, but perfect tasks for words remembering:
   4. Other
      
 And also answers at the end of the file to check answers
+
+Additional sources:
+  1. https://www.englishtestsonline.com/english-level-tests/        - Level tests
+  2. https://www.englishtestsonline.com/english-grammar-tests/      - Grammar tests
+  3. https://www.englishtestsonline.com/english-vocabulary-tests/   - Vocabulary tests
+  4. https://www.englishtestsonline.com/miscellaneous/              -  Miscellaneous tests  
